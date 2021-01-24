@@ -1,49 +1,33 @@
-[English](https://github.com/fontworks-fonts/Reggae) /[日本語](README-JP.md) 
+# Reggae Remixed
 
-![ReggaeOne-Regular](./image_Reggae.png)
+![Preview of Reggae Remixed](ReggaeRemixedPreview.png)
 
-## Reggae One-Regular
+This is a version of [Fontwork's Reggae](https://github.com/fontworks-fonts/Reggae) typeface that adapts it for use in English-language comics. 
 
-Reggae is a very popular display font often used in Japanese boys' magazines and digital content. The sharpened ends give off  a dynamic pulse, making this font ideal to express rhythm, movement and energy, or for emphasis.  
-[Learn more](https://fontworks.co.jp/fontsearch/ReggaeStd-B/).
+**This font includes 119 additional characters** (like Ō and Å) that were composed with the original accent glyphs from Reggae One. This font also uses OpenType contextual alternates to replace a crossbar I glyph for personal I's per comic lettering conventions. 
 
+All modifications are made in accordance to the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) on Reggae. 
 
 ### Download the font
 
-You can download pre-built the TrueType font from the following page.
+[Latest release](./fonts/otf/ReggaeRemixed.otf)
 
-[Latest release](https://github.com/fontworks-fonts/Reggae/tree/master/fonts/ttf)
+### Font source files
 
+The raw glyphs are available [here](./sources/ReggaeRemixed.glyphs).
 
-### Building the font from source
-
-#### Requirements
-
-* [python3](https://www.python.org/)  
-* [fontmake](https://github.com/googlefonts/fontmake/)
-* [fonttools](https://github.com/fonttools/fonttools/)
-* [ttfautohint](https://www.freetype.org/ttfautohint/doc/ttfautohint.html)  
-
-
-#### Build the font
-
-Change the current working directory to 'Reggae' folder and run **build.py** .
-
-    $ python build.py
-
+The FontLab file is available [here](./sources/ReggaeRemixed.vfc). It was created in FontLab 7.
 
 ### Licence
 
 This font is licensed under the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
 
-
-### Characters
-
-* All glyphs in [Adobe-Japan1-3](https://github.com/adobe-type-tools/Adobe-Japan1)
-* [GF Latin Core](https://github.com/googlefonts/gftools/tree/master/Lib/gftools/encodings/GF%20Glyph%20Sets#gf-latin-core)  
-
-
 ### Prohibited acts
 
 * Redistribute under license except 'SIL Open Font License Version 1.1'.
 * Selling ​​the font file itself.
+
+
+### About Me
+
+I'm a manga letterer who uses fonts like these every day. I have more fonts for manga lettering available on my [Gumroad](https://gumroad.com/salinsley), and I talk about manga, type, and lettering on my [Twitter @salinsley](https://twitter.com/salinsley).
